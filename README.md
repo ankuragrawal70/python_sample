@@ -23,7 +23,7 @@
 			List, tuple and array Python, Java ArrayList, C++ Vector, golang Slice hashmap and map, tuple.
 			Memory allocation.
 			How to use cython. Example of Cython to reduce time of execution.
-			Wrapper to cythonize a method in python and add just cython annotations to make it fast like java or c++.
+			Wrapper to cythonize a method in python and add just cython annotations to make it fast like java or c++ using pythonparser module.
 			Automatically add concurrency using asyncio and gevent.
 
 			Concurrency and Scalability
