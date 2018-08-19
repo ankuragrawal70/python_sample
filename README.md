@@ -1,5 +1,5 @@
 # python_sample
-Topics of Interest.
+.
 			Topics of interest
 
 			Data Structure and algorithm:
